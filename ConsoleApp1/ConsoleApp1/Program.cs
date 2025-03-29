@@ -7,6 +7,7 @@ namespace ConsoleApp1
         private static async Task Main(string[] args)
         {
             var i = 1;
+            var j = 2;
         }
     }
 }
